@@ -1,0 +1,29 @@
+{
+  "name": "study-about-node-api",
+  "version": "1.0.0",
+  "description": "study about how build a node.js api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuliobluz/node-api-mongoose-study.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "REST"
+  ],
+  "author": "Tulio Bandeira Luz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuliobluz/node-api-mongoose-study/issues"
+  },
+  "homepage": "https://github.com/tuliobluz/node-api-mongoose-study#readme",
+  "dependencies": {
+    "mongoose": "^5.3.14",
+    "validator": "^10.9.0"
+  }
+}
