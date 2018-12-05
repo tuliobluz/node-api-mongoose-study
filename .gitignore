@@ -5,4 +5,4 @@
 .DS_Store
 Thumbs.db
 
-/src/database.js
+/src/server.js
